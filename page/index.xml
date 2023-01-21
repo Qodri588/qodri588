@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on grandpix</title>
+    <link>https://grandpix.biz/page/</link>
+    <description>Recent content in Pages on grandpix</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://grandpix.biz/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Hugo</title>
+      <link>https://grandpix.biz/page/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandpix.biz/page/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+https://github.com/russross/blackfriday https://github.</description>
+    </item>
+    
+    <item>
+      <title>Disclaimer</title>
+      <link>https://grandpix.biz/page/disclaimer/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandpix.biz/page/disclaimer/</guid>
+      <description>Disclaimer for grandpix If you require any more information or have any questions about our site&amp;rsquo;s disclaimer, please feel free to contact us by email at mqodri588@gmail.com
+Disclaimers for grandpix All the information on this website - https://grandpix.biz - is published in good faith and for general information purpose only. grandpix does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on this website (grandpix), is strictly at your own risk.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Police</title>
+      <link>https://grandpix.biz/page/privacy-police/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandpix.biz/page/privacy-police/</guid>
+      <description>Privacy Policy for Grandpix At Grandpix, accessible from https://grandpix.biz, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Grandpix and how we use it.
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
+Log Files Grandpix follows a standard procedure of using log files. These files log visitors when they visit websites.</description>
+    </item>
+    
+    <item>
+      <title>Term And Conditions</title>
+      <link>https://grandpix.biz/page/term-and-condition/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandpix.biz/page/term-and-condition/</guid>
+      <description>Terms and Conditions Welcome to Grandpix!
+These terms and conditions outline the rules and regulations for the use of Grandpix&amp;rsquo;s Website, located at https://grandpix.biz.
+By accessing this website we assume you accept these terms and conditions. Do not continue to use Grandpix if you do not agree to take all of the terms and conditions stated on this page.
+The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all Agreements: &amp;ldquo;Client&amp;rdquo;, &amp;ldquo;You&amp;rdquo; and &amp;ldquo;Your&amp;rdquo; refers to you, the person log on this website and compliant to the Company’s terms and conditions.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://grandpix.biz/page/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandpix.biz/page/contact/</guid>
+      <description> Contact Us ! Welcome to Grandpix! Please email us if you have any queries about the site, advertising, or anything else.
+mqodri588@gmail.com
++6282334316055
+We will revert you as soon as possible...! Thank you for contacting us! Have a great day
+This page is generated with the help of Contact Us Page Generator </description>
+    </item>
+    
+  </channel>
+</rss>
