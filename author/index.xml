@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on grandpix</title>
+    <link>https://grandpix.biz/author/</link>
+    <description>Recent content in Authors on grandpix</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language><atom:link href="https://grandpix.biz/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Syafi&#39;i Profile</title>
+      <link>https://grandpix.biz/author/author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandpix.biz/author/author/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
